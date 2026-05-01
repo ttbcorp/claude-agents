@@ -1,0 +1,16 @@
+{
+  "name": "ttb-agents",
+  "description": "TTB Skill Factory — Codex+Claude 이중 분석으로 Claude Code 플러그인(스킬/하네스)을 자동 설계·생성하는 팩토리.",
+  "version": "1.11.0",
+  "author": {
+    "name": "TTB",
+    "url": "https://github.com/ttbcorp"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ttb",
+    "skill-factory",
+    "codex",
+    "agent-team"
+  ]
+}

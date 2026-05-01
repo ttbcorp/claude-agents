@@ -1,0 +1,16 @@
+{
+  "name": "ttb-marketplace",
+  "owner": {
+    "name": "TTB",
+    "email": "js.yoo@ttb.kr",
+    "url": "https://github.com/ttbcorp"
+  },
+  "plugins": [
+    {
+      "name": "ttb-agents",
+      "source": "./",
+      "description": "TTB Skill Factory — Codex+Claude 이중 분석으로 Claude Code 플러그인(스킬/하네스)을 자동 설계·생성.",
+      "version": "1.11.0"
+    }
+  ]
+}
